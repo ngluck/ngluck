@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngluck
 - 👀 I’m interested in astrophysics, coffee, and art!
-- 🌱 I’m currently a 3rd year Physics PhD student at Yale.
+- 🌱 I’m a Physics PhD Candidate at Yale.
 - 📫 How to reach me: naomi.gluck@yale.edu
 
 <!---
